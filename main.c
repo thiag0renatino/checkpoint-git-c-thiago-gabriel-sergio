@@ -8,5 +8,9 @@ int main(){
     // Adicionar os nomes restantes
     printf("Gabriel Fagundes\n");
     printf("RM569074\n");
+    printf("21 anos\n");
+    printf("===================================\n");
+    //Adicionar nome de último integrante
+    
     return 0;
 }
