@@ -11,6 +11,6 @@ int main(){
     printf("21 anos\n");
     printf("===================================\n");
     //Adicionar nome de último integrante
-    
+    printf("Sergio Augusto Amaral Souza Soares\n");
     return 0;
 }
