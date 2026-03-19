@@ -5,13 +5,12 @@ int main(){
     printf("RM569073\n");
     printf("20 anos\n");
     printf("===================================\n");
-    // Adicionar os nomes restantes
     printf("Gabriel Fagundes\n");
     printf("RM569074\n");
     printf("21 anos\n");
     printf("===================================\n");
-    //Adicionar nome de último integrante
     printf("Sergio Augusto Amaral Souza Soares\n");
     printf("RM570184\n");
+    printf("===================================\n");
     return 0;
 }
